@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1holamundo/1holamundo.iml" filepath="$PROJECT_DIR$/1holamundo/1holamundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2sintaxis/2sintaxis.iml" filepath="$PROJECT_DIR$/2sintaxis/2sintaxis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3operadores/3operadores.iml" filepath="$PROJECT_DIR$/3operadores/3operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4flujosdecontrol/4flujosdecontrol.iml" filepath="$PROJECT_DIR$/4flujosdecontrol/4flujosdecontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5arrays/5arrays.iml" filepath="$PROJECT_DIR$/5arrays/5arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6listas/6listas.iml" filepath="$PROJECT_DIR$/6listas/6listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7clasesyobjetos/7clasesyobjetos.iml" filepath="$PROJECT_DIR$/7clasesyobjetos/7clasesyobjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-java-basico.iml" filepath="$PROJECT_DIR$/.idea/curso-java-basico.iml" />
+    </modules>
+  </component>
+</project>
